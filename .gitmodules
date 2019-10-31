@@ -1,0 +1,14 @@
+[submodule "external/miniupnp"]
+	path = external/miniupnp
+	url = https://github.com/monero-project/miniupnp
+	branch = monero
+[submodule "external/unbound"]
+	path = external/unbound
+	url = https://github.com/monero-project/unbound
+	branch = monero
+[submodule "external/protobuf"]
+	path = external/protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
+[submodule "external/randomx"]
+	path = external/randomx
+	url = https://github.com/tevador/RandomX
